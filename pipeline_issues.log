@@ -1,0 +1,490 @@
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Critical issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'MyOtherSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'MyOtherSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows HTTP traffic (port 80)
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows HTTP traffic (port 80)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows HTTP traffic (port 80)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows HTTP traffic (port 80)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '192.168.0.0/24'}
+Security group allows HTTP traffic (port 80)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '192.168.0.0/24'}
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows HTTP traffic (port 80)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '192.168.0.0/24'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '192.168.0.0/24'}
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '192.168.0.0/24'}
+Security group allows HTTP traffic (port 80)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '192.168.0.0/24'}
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '192.168.0.0/24'}
+Security group allows HTTP traffic (port 80)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '192.168.0.0/24'}
+Security group allows HTTP traffic (port 80)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '192.168.0.0/24'}
+Security group allows ICMP traffic
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'icmp', 'FromPort': -1, 'ToPort': -1, 'CidrIp': '192.168.0.0/24'}
+Critical issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'MyOtherSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Critical issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'MyOtherSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'MyOtherSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'MyOtherSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'MyOtherSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'MyOtherSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'MyOtherSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Critical issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'MySecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Critical issue in resource 'MyOtherSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: MySecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: MyOtherSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Critical issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22, 'CidrIp': '192.168.0.0/24'}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}
+Security issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows traffic from '0.0.0.0/0'
+Medium issue in resource 'WebSecurityGroup'
+  Rule Details: Security group allows SSH traffic (port 22)
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 80, 'ToPort': 80, 'CidrIp': '0.0.0.0/0'}
+Security group allows SSH traffic (port 22)
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': 'tcp', 'FromPort': 22, 'ToPort': 22}
+Security group allows traffic from '0.0.0.0/0'
+  Rule Details: Security Group: WebSecurityGroup, Rule: {'IpProtocol': -1, 'CidrIp': '0.0.0.0/0'}

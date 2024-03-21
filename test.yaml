@@ -1,0 +1,32 @@
+AWSTemplateFormatVersion: "2010-09-09"
+
+Resources:
+  VPC:
+    Type: AWS::EC2::VPC
+    Properties:
+      CidrBlock: 10.0.0.0/16
+
+  WebSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties: 
+      GroupDescription: Allow HTTP access
+      VpcId: !Ref VPC
+      SecurityGroupIngress:  
+        - IpProtocol: tcp
+          FromPort: 80
+          ToPort: 80
+          CidrIp: 0.0.0.0/0
+        - IpProtocol: tcp
+          FromPort: 22
+          ToPort: 22  # Intentionally not allowed, causing a Medium issue
+        - IpProtocol: udp
+          FromPort: 53
+          ToPort: 53  # Intentionally not allowed, causing another Medium issue
+        - IpProtocol: -1  # All traffic rule, causing a Critical issue
+          CidrIp: 0.0.0.0/0  # This should be avoided
+
+  WebServer:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t2.micro
+      ImageId: ami-abcd1234

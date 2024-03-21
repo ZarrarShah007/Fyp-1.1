@@ -1,0 +1,15 @@
+AWSTemplateFormatVersion: "2010-09-09"
+
+Resources:
+  EC2Instance:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t2.micro
+      ImageId: ami-0c55b159cbfafe1f0
+
+  WebSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties: 
+      GroupDescription: Allow HTTP access
+      VpcId: !Ref VPC
+      # Intentionally missing SecurityGroupIngress

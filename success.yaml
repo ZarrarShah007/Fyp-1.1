@@ -1,0 +1,26 @@
+AWSTemplateFormatVersion: "2010-09-09"
+
+Resources:
+  VPC:
+    Type: AWS::EC2::VPC
+    Properties:
+      CidrBlock: 10.0.0.0/16
+
+  WebSecurityGroup:
+    Type: AWS::EC2::SecurityGroup
+    Properties: 
+      GroupDescription: Allow HTTP access
+      VpcId: !Ref VPC
+      SecurityGroupIngress:  
+        - IpProtocol: tcp
+          FromPort: 80
+          ToPort: 80
+          CidrIp: 192.168.0.0/24  # Replace with your specific IP range
+
+  WebServer:
+    Type: AWS::EC2::Instance
+    Properties:
+      InstanceType: t2.micro
+      ImageId: ami-abcd1234
+      SecurityGroups:
+        - !Ref WebSecurityGroup
